@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-community
+azure-search-documents
+azure-identity
+azure-storage-blob
+pypdf
+python-docx
+unstructured[docx]
+python-dotenv
